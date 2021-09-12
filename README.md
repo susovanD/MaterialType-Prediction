@@ -40,7 +40,3 @@ Show some love if you have benfitted from this content by starring the content o
 - [LinkedIn](www.linkedin.com/in/susovan-dey)
 - [gmail](deysusovan93@gmail.com)
 - [Facebook](https://www.facebook.com/susovan.dey.31)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
