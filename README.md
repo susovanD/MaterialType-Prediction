@@ -26,16 +26,17 @@ Below are some of the points that we found from the data :
 - Combination of Subject and title should be used to identify the materialtype.
 - ~ 69% of the total data are having materialtype as BOOK, followed by SOUNDDISC(~ 13%) and VIDEOCASS(~ 9%).
 - Since majority of the data has materialtype as BOOK, if we use this data as it is for model building, it will become imbalanced.
-Click to see more [Exploratory Data Analysis](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
+For more details Click on [Exploratory Data Analysis](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
 
-## Model Creation
-- [Model Creation](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
+## ML Model Creation
+First the data has been splitted into training and testing set and the preprocessed/cleaned. Then the data has been converted to TF-IDF matrix post which it has been fed into different machine learning algorithms. **SVM** and **Random forest Classifier** seemed to have the best accuracy, recall and precission score.
+Overall accuracy acheived is ~88%. For more details click on [Model Creation](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
 
 ## Author
 - [@susovanD](https://www.github.com/susovanD)
-
+I am always open to suggestions, hence please provide if you have any.
+Show some love if you have benfitted from this content by starring the content or by following me. :)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-  
