@@ -34,9 +34,16 @@ Overall accuracy acheived is ~88%. For more details click on [Model Creation](ht
 
 ## Author
 - [@susovanD](https://www.github.com/susovanD)
-I am always open to suggestions, hence please provide if you have any.
-Show some love if you have benfitted from this content by starring the content or by following me. :)
-## License
 
+## End Notes
+I am always open to suggestions, hence please provide if you have any.
+Show some love if you have benfitted from this content by starring the content or by following me.
+
+## 📬 Find me on
+- [LinkedIn](www.linkedin.com/in/susovan-dey)
+- [gmail](deysusovan93@gmail.com)
+- [Facebook](https://www.facebook.com/susovan.dey.31)
+
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
