@@ -19,7 +19,7 @@ Below given are the details about the different columns of dataset.
 ![image](https://user-images.githubusercontent.com/32951163/132705201-eb909cc2-d9ba-4282-8c75-cff790587eef.png)
 
 
-## Exploratory Data Analysis (EDA)
+## [Exploratory Data Analysis (EDA)](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
 Below are some of the points that we found from the data : 
 - The full data is from UsageClass=physical, checkouttype=Horizon, and checkoutyear=2005, checkoutmonth=4
 - No duplicate data is present in the data.
@@ -28,12 +28,9 @@ Below are some of the points that we found from the data :
 - Since majority of the data has materialtype as BOOK, if we use this data as it is for model building, it will become imbalanced.
 For more details Click on [Exploratory Data Analysis](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
 
-## ML Model Creation
+## [ML Model Creation](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
 First the data has been splitted into training and testing set and the preprocessed/cleaned. Then the data has been converted to TF-IDF matrix post which it has been fed into different machine learning algorithms. **SVM** and **Random forest Classifier** seemed to have the best accuracy, recall and precission score.
 Overall accuracy acheived is ~88%. For more details click on [Model Creation](https://github.com/susovanD/MaterialType-Prediction/blob/main/eda.py.ipynb)
-
-## Author
-- [@susovanD](https://www.github.com/susovanD)
 
 ## End Notes
 I am always open to suggestions, hence please provide if you have any.
